@@ -1,6 +1,6 @@
-### Hi there, I'm <a href="https://www.linkedin.com/in/andrius-kairiukstis" target="_blank" rel="noopener noreferrer">Andrius Kairiukstis</a> 👋
+### Hi there 👋, I'm <a href="https://www.linkedin.com/in/andrius-kairiukstis" target="_blank" rel="noopener noreferrer">Andrius Kairiukstis</a>.
 
-I am Automation and DevOps engineer with a background in telecommunications and SAAS. I specialize in creating voice platforms and distributed backend systems, with expertise in various platforms, systems, and coding. I also have experience in creating APIs and VoIP systems. I excel in backend systems development and managing IT service companies
+I am Automation and DevOps engineer with a background in telecommunications and SAAS. I specialize in creating voice platforms and distributed backend systems, with expertise in various platforms, systems, and coding. I also have experience in creating APIs and VoIP systems. I excel in backend systems development.
 
 <!--
 
