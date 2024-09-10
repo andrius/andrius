@@ -1,6 +1,14 @@
 ### Hi there 👋, I'm <a href="https://www.linkedin.com/in/andrius-kairiukstis" target="_blank" rel="noopener noreferrer">Andrius Kairiukstis</a>.
 
-I am Automation engineer with a background in telecommunications and SAAS. I specialize in creating voice platforms and distributed backend systems, with expertise in various platforms, integrations, systems, and coding. I also have experience in creating APIs and scaled systems. I excel in backend systems development.
+I am an engineer with a strong background in telecommunications and SaaS. My expertise includes:
+
+- Architecting end-to-end VoIP/RTC solutions
+- Developing distributed backend systems
+- Integrating AI solutions
+- Creating scalable APIs and integrations
+- Implementing CI/CD to deliver to the cloud
+
+I build high-performance, scalable communication systems across various platforms and cloud environments. My approach combines technical skills with practical business sense to create efficient, forward-thinking solutions.
 
 <!--
 
